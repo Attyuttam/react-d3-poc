@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.rd3t-node {
+  cursor: pointer;
+  fill: #777;
+  stroke: #000;
+  stroke-width: 2;
+}
+
